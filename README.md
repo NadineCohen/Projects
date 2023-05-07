@@ -7,9 +7,7 @@ Completed at an internship for Corsound AI.
 Completed as part of the course requiremnts at ITC.
 ## 3. Power BI
 Completed as part of the course requiremnts at ITC.
-## 4. Python
-
-## 5. SQL
+## 4. Advanced SQL Techniques
 Completed as part of Coursera : IBM Data Science Profeesional Certificate - Advanced SQL Techniques
-## 6. Vox2
+## 5. Vox2
 Completed at an internship for Corsound AI.
