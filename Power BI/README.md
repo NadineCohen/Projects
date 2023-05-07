@@ -4,7 +4,7 @@ The project subject is up to you to decide.
 The product of the project is as followed
 1. Power BI dashboard contains the following elements
 
-● Beautiful UI - there are tons of dashboard examples over the web (example)
+● Beautiful UI
 
 ● Filters
 
@@ -31,7 +31,6 @@ The project should have the following documents:
 
     ○ Entities details - Entity name, field description, keys, foreign keys, indexes, etc
 
-    ○ DDL Commands of the schema (if using a SQL DB as datasource)
 
 ● ERD map - can be created and attached as a pic from MySQL \ PBI
 
